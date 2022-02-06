@@ -1,0 +1,1 @@
+TinDog project from Udemy course bootcamp. Going over concepts I have learned in my frontend journey.

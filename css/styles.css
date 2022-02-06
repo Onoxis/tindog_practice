@@ -1,0 +1,174 @@
+body {
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 5% 15% 7%;
+}
+
+#main-text {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;  
+    font-weight: bold; 
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+/* Download Buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+.features {
+    background-color: #fff;
+    position: relative;
+}
+
+/* Second Section */
+
+.sec-two {
+    color: #ef8172;
+}
+
+.sec-two:hover,
+.sec-two:focus {
+    color: #ff4c68;
+}
+
+.sec-two-cover  {
+    text-align: center;
+    margin: 65px 0px;
+    padding: 0 30px;
+}
+
+.sec-two-heading {
+    margin: 15px 0;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.sec-two-cover p {
+    color: #8f8f8f;
+}
+
+
+
+/* Testimonials Section  */
+
+#testimonials {
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+}
+
+#testimonials h2 {
+    font-weight: bold;
+}
+
+.testimonial-image {
+    border-radius: 50%;
+    height: 100px;
+    margin: 20px;
+}
+
+
+/* Press Section  */
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+/* Pricing */
+
+.card-deck {
+justify-content: space-evenly;
+margin: 3% 2.5%;
+}
+
+.card {
+  min-width: 25vw;
+}
+
+.card-body p {
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+
+
+.card-body h2 {
+    font-weight: 800;
+}
+
+.col-sm-12 {
+    margin-bottom: 5%;
+}
+
+.card-header h3 {
+    font-weight: 800;
+    font-size: 1.1rem;
+}
+
+#pricing {
+    text-align: center;
+    padding: 5% 0;
+}
+
+#pricing h2 {
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+
+#card-detail {
+    font-weight: 400;
+    margin-bottom: 5%;
+    font-size: small;
+}
